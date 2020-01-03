@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <RootNamespace>Inasync</RootNamespace>
+    <Authors>inasync</Authors>
+    <PackageProjectUrl>https://github.com/in-async/Base16</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/in-async/Base16/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageTags>library</PackageTags>
+  </PropertyGroup>
+
+</Project>
